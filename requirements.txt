@@ -1,0 +1,2 @@
+audioop-lts; python_version>='3.13'
+py-cord==2.6.1
